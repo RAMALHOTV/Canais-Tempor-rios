@@ -1311,41 +1311,6 @@ http://srvuhd.top:80/FAMILIA/12345/72980
 http://srvuhd.top:80/FAMILIA/12345/72981
 #EXTINF:-1,[24H] - Jaspion
 http://srvuhd.top:80/FAMILIA/12345/72982
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV VANGUARDA FHD (SAO JOSE DOS CAMPOS ) ALT" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="CANAIS GLOBOS",TV VANGUARDA FHD (SAO JOSE DOS CAMPOS ) ALT
-http://vipeiptv.com:25461/andreia1/andreia2/857010
-#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE" tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS ABERTOS",TVE
-http://vipeiptv.com:25461/andreia1/andreia2/856555
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD ALT" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet.png" group-title="CANAIS FILMES",UNIVERSAL CHANNEL FHD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856176
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD ALT" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet.png" group-title="CANAIS FILMES",UNIVERSAL CHANNEL HD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856175
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD ALT" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet.png" group-title="CANAIS FILMES",UNIVERSAL CHANNEL SD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856173
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV HD
-http://vipeiptv.com:25461/andreia1/andreia2/856174
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV SD
-http://vipeiptv.com:25461/andreia1/andreia2/856172
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA FHD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856740
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
-http://vipeiptv.com:25461/andreia1/andreia2/856738
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856739
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
-http://vipeiptv.com:25461/andreia1/andreia2/856736
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856737
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL FHD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856181
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD
-http://vipeiptv.com:25461/andreia1/andreia2/856179
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856180
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
-http://vipeiptv.com:25461/andreia1/andreia2/856177
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD ALT
-http://vipeiptv.com:25461/andreia1/andreia2/856178
-
 
 #EXTINF:-1 tvg-id="" tvg-name="No Paraíso das Solteironas (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ0OtXOtu0NllIdPwPLBiLoLtBZ.jpg" group-title="COLETÂNEA | MAZZAROPI",No Paraíso das Solteironas (1969)
 http://vipeiptv.com:25461/movie/andreia1/andreia2/914893.mp4
